@@ -1,5 +1,8 @@
-# Brave Browser
+# Brave Browser 
 
+## Description
+
+Brave is an ultimate browser which is based on Chromium so you can use all of your Chrome Extensions such as Momentum or Forest. It even comes with an in built ad blocker!!! Our team hopes that you surf the internet safely and smoothly using Brave.
 
 ## Overview
 
@@ -17,7 +20,7 @@ This repository holds the build tools needed to build the Brave desktop browser 
 
 ## Downloads
 
-You can [visit our website](https://brave.com/download) to get the latest stable release.
+You can [visit our website](https://brave.com) to get the latest stable release.
 
 ## Other repositories
 
